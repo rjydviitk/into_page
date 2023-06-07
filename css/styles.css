@@ -1,0 +1,20 @@
+body{
+    background-color: #9DB2BF !important;
+}
+img{
+    height: 400px;
+    width: 400px;
+    
+}
+.navbar{
+    background-color: #27374D;
+
+}
+footer {
+    background-color: #27374D;
+    color: #fff;
+    padding: 10px;
+    margin-top: 100px;
+    margin-bottom: 0;
+    text-align: center;
+  }
